@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Trip Advisor</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string-array name="itinerary" 
+        >
+        <item>One-Day Itinerary</item>
+           <item>Two-Day Itinerary</item>
+              <item>Three-Day Itinerary</item>
+        
+    </string-array>
+
+</resources>
